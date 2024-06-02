@@ -1,0 +1,34 @@
+[
+  {
+      "title": "Whats-Chat",
+      "imageSrc": "projects/webchat.png",
+      "description": "Real-time messaging: Instantly send and receive messages within the chat room. Get notified when a new user joins or leaves the chat.",
+      "skills": ["Ejs", "CSS", "NodeJs", "ExpressJs", "Socket.io", "Docker"],
+      "demo": "https://github.com/shrinivask007/WhatsApp-Clone",
+      "source": "https://github.com/shrinivask007/WhatsApp-Clone"
+  },
+  {
+      "title": "URL Shortner",
+      "imageSrc": "projects/urlshortner.png",
+      "description": "The URL shortener project uses EJS, Bootstrap, Node.js, Express, MongoDB, and a REST API to manage URL shortening and redirection.",
+      "skills": ["Ejs", "Bootstrap", "NodeJs", "ExpressJs", "MongoDB"],
+      "demo": "https://github.com/shrinivask007/URL_Shortner",
+      "source": "https://github.com/shrinivask007/URL_Shortner"
+  },
+  {
+      "title": "Telegram Bot",
+      "imageSrc": "projects/telegrambot.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Telegraph", "NodeJs", "ExpressJs"],
+      "demo": "https://github.com/shrinivask007/telegram-bot",
+      "source": "https://github.com/shrinivask007/telegram-bot"
+  },
+  {
+      "title": "University Managment System",
+      "imageSrc": "projects/ums.jpeg",
+      "description": "Complete University management system for students, faculty, and administrators.",
+      "skills": ["Java", "Swing", "MySQL"],
+      "demo": "https://github.com/shrinivask007/College-Management-System",
+      "source": "https://github.com/shrinivask007/College-Management-System"
+  }
+]
