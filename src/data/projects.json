@@ -3,7 +3,7 @@
       "title": "Whats-Chat",
       "imageSrc": "projects/webchat.png",
       "description": "Real-time messaging: Instantly send and receive messages within the chat room.",
-      "skills": ["Ejs", "CSS", "NodeJs", "ExpressJs", "Socket.io", "Docker"],
+      "skills": ["Ejs", "CSS", "Node", "Express", "Socket.io", "Docker"],
       "demo": "https://github.com/shrinivask007/WhatsApp-Clone",
       "source": "https://github.com/shrinivask007/WhatsApp-Clone"
   },
