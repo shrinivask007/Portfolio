@@ -61,6 +61,16 @@
   transform: scale(1.05);
   box-shadow: 0 0 10px rgb(255, 255, 255);
 }
+.links {
+  margin-top: 30px;
+}
+.links a {
+  justify-content: space-between;
+  margin-right: 15px;
+}
+.links img {
+  margin-bottom: 20px;
+}
 
 .heroImg {
   width: 40%;
@@ -114,13 +124,25 @@
 
 @media screen and (max-width: 830px) {
   .title {
-    font-size: 45px;
+    font-size: 40px;
+    align-items: center;
   }
   .description {
-    font-size: 25px;
+    font-size: 20px;
   }
   .contactBtn {
     font-size: 25px;
+  }
+  .links {
+    justify-content: space-between;
+  }
+  .links a {
+    align-items: center;
+    justify-content: space-around;
+    margin-left:18px ;
+    margin-right: 18px;
+    
+    
   }
   .container {
     flex-direction: column-reverse;
@@ -128,7 +150,6 @@
   }
 
   .content {
-    
     align-items: center;
   }
 }
