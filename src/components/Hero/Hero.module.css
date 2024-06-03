@@ -37,7 +37,7 @@
 .description {
   font-size: 25px;
   font-family: var(--font-roboto);
-  margin-bottom: 52px;
+  margin-bottom: 42px;
 }
 
 .heroAction{
@@ -114,16 +114,21 @@
 
 @media screen and (max-width: 830px) {
   .title {
-    font-size: 52px;
+    font-size: 45px;
   }
   .description {
     font-size: 25px;
   }
+  .contactBtn {
+    font-size: 25px;
+  }
   .container {
     flex-direction: column-reverse;
+    margin-top: 40px;
   }
 
   .content {
+    
     align-items: center;
   }
 }
