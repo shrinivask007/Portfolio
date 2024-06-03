@@ -130,6 +130,7 @@
   }
   .description {
     font-size: 20px;
+    margin-bottom: 32px;
   }
   .contactBtn {
     font-size: 25px;
@@ -142,8 +143,6 @@
     justify-content: space-around;
     margin-left:18px ;
     margin-right: 18px;
-    
-    
   }
   .container {
     flex-direction: column-reverse;
