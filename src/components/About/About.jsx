@@ -29,7 +29,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have can develop fast and optimised back-end systems
+                I can develop fast and optimised back-end systems
                 and APIs with Node.js , Express.js and DataBase (MySQL,Mongodb) 
               </p>
             </div>
