@@ -40,6 +40,11 @@
   margin-bottom: 42px;
 }
 
+.description span {
+  font-size: 30px;
+  font-weight: 500;
+}
+
 .heroAction{
   display: flex;
   gap: 25px;
@@ -131,6 +136,9 @@
   .description {
     font-size: 20px;
     margin-bottom: 32px;
+  }
+  .description span {
+  font-size: 20px;
   }
   .contactBtn {
     font-size: 25px;

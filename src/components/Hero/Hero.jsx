@@ -5,7 +5,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter';
 
 export const Hero = () => {
   const [text] = useTypewriter({
-    words: ["Web Designer",  "Programmer", "Web Developer"],
+    words: ["Web Designer,",  "Programmer,", "Web Developer,"],
     loop: true,
     typeSpeed: 100,
     deleteSpeed: 100,
@@ -17,7 +17,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, It's me Shrinivas</h1>
         <p className={styles.description}>
-        I'm a <span>{text}</span> <Cursor /> <br />Passionate IT Engineering student from VIIT, Pune with good programming skills.
+        <span>I'm a {text}</span> <Cursor /> <br />Passionate IT Engineering student from VIIT, Pune with good programming skills.
           Constantly seeking  new knowledge and experiences, I stay updated with the latest trends.
         </p>
        
@@ -27,11 +27,11 @@ export const Hero = () => {
         </div>
         <div className={styles.links}>
        <a href="https://github.com/shrinivask007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-github-username" height="30" width="40" /></a>
-       <a href="https://linkedin.com/in/shrinivas kathare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrinivas kathare" height="30" width="40" /></a>
-       <a href="https://instagram.com/iamshree_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshree_007" height="30" width="40" /></a>  
+       <a href="https://www.linkedin.com/in/shrinivas-kathare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrinivas kathare" height="30" width="40" /></a>
        <a href="https://www.leetcode.com/shrinivassk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrinivassk18" height="30" width="40" /></a>
        <a href="https://auth.geeksforgeeks.org/user/shrinivaskathare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrinivaskathare" height="30" width="40" /></a>
        <a href="https://www.hackerrank.com/shrinivas007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrinivas007" height="30" width="40" /></a>
+       <a href="https://instagram.com/iamshree_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshree_007" height="30" width="40" /></a>  
        <a href="https://twitter.com/iamshree_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamshree_007" height="30" width="40" /></a>
        <a href="https://fb.com/hriniva.kathare.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hriniva.kathare.5" height="30" width="40" /></a>
        </div>
