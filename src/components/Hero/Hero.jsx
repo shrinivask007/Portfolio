@@ -15,7 +15,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, It's me Shrinivas</h1>
+        <h1 className={styles.title}>Hi, it's me Shrinivas</h1>
         <p className={styles.description}>
         <span>I'm a {text}</span> <Cursor /> <br />Passionate IT Engineering student from VIIT, Pune with good programming skills.
           Constantly seeking  new knowledge and experiences, I stay updated with the latest trends.

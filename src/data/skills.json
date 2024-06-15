@@ -32,12 +32,12 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/AWS.png"
     },
     {
       "title": "Docker",
