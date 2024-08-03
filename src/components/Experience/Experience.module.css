@@ -17,7 +17,7 @@
 }
 
 .content {
-  margin-left: 20px;
+  margin-left: 10px;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -44,8 +44,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 80px;
+  height: 80px;
   cursor: pointer;
   animation: floating;
   animation-duration: 3s;
@@ -53,11 +53,11 @@
 }
 
 .skillImageContainer img {
-  width: 75px;
+  width: 55px;
 }
 
 .skill p {
-  font-size: 25px;
+  font-size: 20px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
