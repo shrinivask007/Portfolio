@@ -1,9 +1,25 @@
 [
   {
+      "title": "Job Junction",
+      "imageSrc": "projects/jobjunction.png",
+      "description": "The Job Portal application where users Grab & Grant jobs.",
+      "skills": ["React", "Node", "Express", "MongoDB"],
+      "demo": "https://github.com/shrinivask007/Job_finder",
+      "source": "https://github.com/shrinivask007/Job_finder"
+  },
+  {
+      "title": "End to End CI/CD Pipeline",
+      "imageSrc": "projects/cicdpipeline.png",
+      "description": "Developed a Real time End to End CI/CD Pipeline using DevOps Tools",
+      "skills": ["Jenkins", "SonarQube", "Docker", "Socket.io", "Aqua Trivy"],
+      "demo": "https://github.com/shrinivask007/location_tracking",
+      "source": "https://github.com/shrinivask007/location_tracking"
+  },
+  {
       "title": "Whats-Chat",
       "imageSrc": "projects/webchat.png",
       "description": "Real-time messaging: Instantly send and receive messages within the chat room.",
-      "skills": ["Ejs", "CSS", "Node", "Express", "Socket.io", "Docker"],
+      "skills": ["Ejs","CSS", "Node", "Express", "Socket.io", "Docker"],
       "demo": "https://github.com/shrinivask007/WhatsApp-Clone",
       "source": "https://github.com/shrinivask007/WhatsApp-Clone"
   },

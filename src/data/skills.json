@@ -46,5 +46,21 @@
     {
       "title": "Kubernets",
       "imageSrc": "skills/Kubernetes.png"
+    },
+    {
+      "title": "Jenkins",
+      "imageSrc": "skills/Jenkins.png"
+    },
+    {
+      "title": "Terraform",
+      "imageSrc": "skills/terraform.png"
+    },
+    {
+      "title": "Ansible",
+      "imageSrc": "skills/ansible.png"
+    },
+    {
+      "title": "Promethus",
+      "imageSrc": "skills/prometheus.png"
     }
   ]
