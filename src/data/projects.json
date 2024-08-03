@@ -3,7 +3,7 @@
       "title": "Job Junction",
       "imageSrc": "projects/jobjunction.png",
       "description": "The Job Portal application where users Grab & Grant jobs.",
-      "skills": ["React", "Node", "Express", "MongoDB"],
+      "skills": ["React", "MaterialUI", "Node", "Express", "MongoDB"],
       "demo": "https://github.com/shrinivask007/Job_finder",
       "source": "https://github.com/shrinivask007/Job_finder"
   },
