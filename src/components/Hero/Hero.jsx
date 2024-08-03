@@ -23,7 +23,7 @@ export const Hero = () => {
        
         <div className={styles.heroAction}>
           <a href="mailto:shrinivassk18@gmail.com" className={styles.contactBtn}>Contact Me</a>
-          <a href="https://drive.google.com/file/d/1j01MFzkxYjwFO8iwzZf-FLf4kzZkf5lJ/view?usp=sharing" className={styles.contactBtn}>My Resume</a>
+          <a href="https://drive.google.com/file/d/1ICngF-sHNDKGIZ_VuitFEu2Fq-pxcvGl/view?usp=drive_link" className={styles.contactBtn}>My Resume</a>
         </div>
         <div className={styles.links}>
        <a href="https://github.com/shrinivask007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-github-username" height="30" width="40" /></a>
