@@ -16,6 +16,10 @@
       "imageSrc": "skills/mysql.png"
     },
     {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
       "title": "ReactJs",
       "imageSrc": "skills/react.png"
     },
@@ -30,10 +34,6 @@
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
     },
     {
       "title": "AWS",
