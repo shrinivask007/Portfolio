@@ -3,7 +3,7 @@
       "title": "Job Junction",
       "imageSrc": "projects/jobjunction.png",
       "description": "The Job Portal application where users Grab & Grant jobs.",
-      "skills": ["React", "MaterialUI", "Node", "Express", "MongoDB"],
+      "skills": ["ReactJs", "MaterialUI", "NodeJs", "ExpressJs", "MongoDB"],
       "demo": "https://job-junction-shrinivas-kathare.vercel.app/",
       "source": "https://github.com/shrinivask007/Job_finder"
   },
@@ -19,7 +19,7 @@
       "title": "Whats-Chat",
       "imageSrc": "projects/webchat.png",
       "description": "Real-time messaging: Instantly send and receive messages within the chat room.",
-      "skills": ["Ejs","CSS", "Node", "Express", "Socket.io", "Docker"],
+      "skills": ["Ejs","CSS", "NodeJs", "ExpressJs", "Socket.io", "Docker"],
       "demo": "https://github.com/shrinivask007/WhatsApp-Clone",
       "source": "https://github.com/shrinivask007/WhatsApp-Clone"
   },
