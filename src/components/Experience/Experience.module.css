@@ -118,13 +118,24 @@
     width: 100%;
     flex-direction: row;
     justify-content: center;
+    gap: 20px;
   }
-
-  
+  .skill p {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .skillImageContainer {
+    width: 45px;
+    height: 45px;
+  }
+  .skillImageContainer img {
+    width: 30px;
+  }
   .history {
     width: 100%;
     gap: 9px;
   }
+  
 }
 
 @keyframes floating {
