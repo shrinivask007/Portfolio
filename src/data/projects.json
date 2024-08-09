@@ -16,6 +16,14 @@
       "source": "https://github.com/shrinivask007/location_tracking"
   },
   {
+      "title": "Bulk Email Marketing",
+      "imageSrc": "projects/Email_marketing.jpg",
+      "description": "This Application built using AWS services ",
+      "skills": ["S3 Bucket","Lambda", "AWS SES","AWS IAM", "AWS EventBridge"],
+      "demo": "https://github.com/shrinivask007/Bulk_Email_Marketing",
+      "source": "https://github.com/shrinivask007/Bulk_Email_Marketing"
+  },
+  {
       "title": "Whats-Chat",
       "imageSrc": "projects/webchat.png",
       "description": "Real-time messaging: Instantly send and receive messages within the chat room.",
