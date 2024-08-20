@@ -73,4 +73,11 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding: 3px 13px;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  transition: .5s;
+}
+.link:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 8px rgb(255, 255, 255);
 }
