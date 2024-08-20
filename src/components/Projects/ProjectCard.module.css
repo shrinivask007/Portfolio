@@ -3,13 +3,13 @@
 .container {
   display: flex;
   justify-content: space-between;
-  height: 400px;
+  height: 350px;
   flex-direction: column;
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 250px;
+  max-width: 200px;
 }
 
 .image {
@@ -30,13 +30,13 @@
 
 .title {
   color: rgb(193, 250, 7);
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 700;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 400;
 }
 
@@ -51,7 +51,7 @@
 }
 
 .skill {
-  font-size: 15px;
+  font-size: 10px;
   font-weight: 300;
   border-radius: 100px;
   background: var(--color-dark);
@@ -72,5 +72,5 @@
   font-weight: 600;
   border-radius: 100px;
   background: var(--color-primary);
-  padding: 3px 20px;
+  padding: 3px 13px;
 }

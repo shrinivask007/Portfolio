@@ -8,6 +8,14 @@
       "source": "https://github.com/shrinivask007/Job_finder"
   },
   {
+    "title": "Blockchain Voting System",
+    "imageSrc": "projects/blockchain.png",
+    "description": "A Voting system implemented using Blockchain Technology.",
+    "skills": ["Solidity", "Web3js", "Ethereum", "Truffle", "Ganache & Metamask"],
+    "demo": "https://github.com/shrinivask007/E-Voting_System_Blockchain",
+    "source": "https://github.com/shrinivask007/E-Voting_System_Blockchain"
+},
+  {
       "title": "End to End CI/CD Pipeline",
       "imageSrc": "projects/cicdpipeline.png",
       "description": "Developed a Real time End to End CI/CD Pipeline using DevOps Tools",
@@ -19,7 +27,7 @@
       "title": "Bulk Email Marketing",
       "imageSrc": "projects/Email_marketing.jpg",
       "description": "This Application built using AWS services ",
-      "skills": ["S3 Bucket","Lambda", "AWS SES","AWS IAM", "AWS EventBridge"],
+      "skills": ["S3 Bucket","Lambda", "AWS SES","AWS IAM", "AWS Event-Bridge"],
       "demo": "https://github.com/shrinivask007/Bulk_Email_Marketing",
       "source": "https://github.com/shrinivask007/Bulk_Email_Marketing"
   },
