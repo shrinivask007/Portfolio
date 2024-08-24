@@ -27,12 +27,8 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <button href={demo} className={styles.link}>
-           Live
-        </button>
-        <button href={source} className={styles.link}>
-          Source
-        </button>
+      <button className={styles.link} onClick={() => window.open(demo, '_blank')}>Live</button>
+      <button className={styles.link} onClick={() => window.open(source, '_blank')}>Source</button>
       </div>
     </div>
   );
