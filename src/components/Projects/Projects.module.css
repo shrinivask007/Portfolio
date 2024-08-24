@@ -3,8 +3,8 @@
 .container {
   margin-top: 76px;
   color: var(--color-text);
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 9%;
+  margin-right: 9%;
 }
 
 .title {
@@ -26,3 +26,51 @@
   width: 100%;
 }
 
+/* Styles for the toggle button group */
+.toggleButtonGroup {
+  display: flex;
+  border: 1.5px solid var(--primary-color);
+  color: var(--primary-black);
+  justify-content: center; /* Center buttons horizontally */
+  align-items: center; /* Center buttons vertically */
+  font-size: 16px;
+  border-radius: 12px;
+  font-weight: 500;
+  margin: 22px 0;
+}
+
+@media (max-width: 768px) {
+  .toggleButtonGroup {
+    font-size: 10px;
+  }
+}
+
+/* Styles for each toggle button */
+.toggleButton {
+  padding: 8px 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid  var(--color-primary);
+  margin-right :5px;
+  background-color: rgba(12, 12, 12, 0.6);
+}
+.toggleButton:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 8px rgb(255, 255, 255);
+}
+.toggleButton.active {
+  background: var(--color-primary); /* Adjusted to simulate the styled-components behavior */
+}
+
+@media (max-width: 768px) {
+  .toggleButton {
+    padding: 7px 7px;
+    border-radius: 4px;
+  }
+}
+
+/* Styles for the divider between toggle buttons */
+.divider {
+  width: 1.5px;
+  background: var(--primary-color);
+}

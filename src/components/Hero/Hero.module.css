@@ -100,7 +100,7 @@
   }
 }
 
-.topBlur {
+/* .topBlur {
   position: absolute;
   width: 50vw;
   height: 50vw;
@@ -126,7 +126,7 @@
   background: rgba(25, 55, 109, 0.7);
   filter: blur(100px);
   z-index: 0;
-} 
+}  */
 
 @media screen and (max-width: 830px) {
   .title {
@@ -139,10 +139,10 @@
     margin-bottom: 32px;
   }
   .description span {
-  font-size: 20px;
+  font-size: 25px;
   }
   .contactBtn {
-    font-size: 25px;
+    font-size: 18px;
   }
   .links {
     justify-content: space-between;
@@ -155,7 +155,7 @@
   }
   .container {
     flex-direction: column-reverse;
-    margin-top: 40px;
+    margin-top: 50px;
   }
 
   .content {
