@@ -5,7 +5,7 @@
 .container {
   display: flex;
   justify-content: space-between;
-  height: 350px;
+  height: 280px;
   width: 240px;
   flex-direction: column;
   border-radius: 16px;
