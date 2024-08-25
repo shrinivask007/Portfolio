@@ -166,3 +166,47 @@ export const skills = [
     },
   ];
   
+  export const certifications = [
+    {
+      title: 'IBM DevOps',
+      imageSrc: 'skills/devops.png', // Ensure this key matches the CertificationCard prop
+      description: 'Coursera : DevOps and Software Engineering',
+      date: 'Date :  July 2024.',
+      certificateLink: 'https://www.coursera.org/account/accomplishments/verify/5JLA4BM4LN4K',
+      credentialLink: 'https://www.coursera.org/account/accomplishments/verify/5JLA4BM4LN4K',
+    },
+    {
+      title: 'IBM Data Analytics',
+      imageSrc: 'skills/ibm.png', // Ensure this key matches the CertificationCard prop
+      description: 'Coursera : Introduction to Data Analytics',
+      date: 'Date :  July 2024.',
+      certificateLink: 'https://www.coursera.org/account/accomplishments/verify/7W3J6L2BBXJP',
+      credentialLink: 'https://www.coursera.org/account/accomplishments/verify/7W3J6L2BBXJP',
+    },
+    {
+      title: 'AWS Academy',
+      imageSrc: 'skills/aws.png', // Ensure this key matches the CertificationCard prop
+      description: 'AWS Cloud Foundation',
+      date: 'Date : 26 Apr 2024.',
+      certificateLink: 'https://www.credly.com/badges/8c0753bb-6f29-4c4d-b41a-6d722ed5afdb/public_url',
+      credentialLink: 'https://www.credly.com/badges/8c0753bb-6f29-4c4d-b41a-6d722ed5afdb/public_url',
+    },
+    {
+      title: 'Cisco Netowks',
+      imageSrc: 'skills/cisco.png', // Ensure this key matches the CertificationCard prop
+      description: 'CCNA :Introdution to Networks',
+      date: 'Date : 9 Apr 2023.',
+      certificateLink: 'https://www.linkedin.com/posts/shrinivas-kathare_cisco-module-1-activity-7050815122189000705-Q_Nu/?utm_source=share&utm_medium=member_desktop',
+      credentialLink: 'https://www.linkedin.com/posts/shrinivas-kathare_cisco-module-1-activity-7050815122189000705-Q_Nu/?utm_source=share&utm_medium=member_desktop',
+    },
+    {
+      title: 'UI/UX Design',
+      imageSrc: 'skills/udemy.png', // Ensure this key matches the CertificationCard prop
+      description: 'Udemy: UI/UX Design',
+      date: 'Date : 20 Jan 2023.',
+      certificateLink: 'http://ude.my/UC-300a46c5-f221-4b38-a2cc-86a791be9343',
+      credentialLink: 'http://ude.my/UC-300a46c5-f221-4b38-a2cc-86a791be9343',
+    },
+    // Add more certifications if needed
+  ];
+  

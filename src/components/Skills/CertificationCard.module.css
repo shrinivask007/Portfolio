@@ -1,0 +1,99 @@
+/* CertificationCard.module.css */
+
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 350px;
+  width: 240px;
+  flex-direction: column;
+  border-radius: 16px;
+  background-color: rgba(12, 12, 12, 0.6);
+  box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
+  padding: 18px 24px;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  border-radius: 13px;
+}
+
+.img {
+  width: 100%;
+  height: 8rem;
+  margin-bottom: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.description {
+  
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--color-text);
+}
+
+.date {
+  
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--color-text);
+}
+
+.links {
+  width: 100%;
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 10px;
+  font-weight: 600;
+  background: var(--color-primary);
+  cursor: pointer;
+  transition: .5s;
+  padding: 8px 18px;
+  border-radius: 6px;
+  border: 2px solid var(--color-primary);
+  margin-right: 5px;
+}
+
+.link:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 8px rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    max-width: 400px;
+    height: 270px;
+    border-radius: 16px;
+  }
+  
+  .img {
+    width: auto;
+    height: 7rem;
+  }
+  
+  .title {
+    font-size: 16px;
+    font-weight: 700;
+  }
+  
+  .description, .date {
+    font-size: 13px;
+    font-weight: 400;
+  }
+}
