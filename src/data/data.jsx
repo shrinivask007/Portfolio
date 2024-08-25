@@ -185,7 +185,7 @@ export const skills = [
     },
     {
       title: 'AWS Academy',
-      imageSrc: 'skills/aws.png', // Ensure this key matches the CertificationCard prop
+      imageSrc: 'skills/awscloud.png', // Ensure this key matches the CertificationCard prop
       description: 'AWS Cloud Foundation',
       date: 'Date : 26 Apr 2024.',
       certificateLink: 'https://www.credly.com/badges/8c0753bb-6f29-4c4d-b41a-6d722ed5afdb/public_url',
