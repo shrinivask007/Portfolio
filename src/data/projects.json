@@ -30,7 +30,7 @@
       "title": "Bulk Email Marketing",
       "category": "web app",
       "imageSrc": "projects/Email_marketing.jpg",
-      "description": "Application on using AWS services",
+      "description": "Application is built on using AWS services",
       "skills": ["S3 Bucket","Lambda", "AWS SES","AWS IAM", "AWS Event-Bridge"],
       "demo": "https://github.com/shrinivask007/Bulk_Email_Marketing",
       "source": "https://github.com/shrinivask007/Bulk_Email_Marketing"

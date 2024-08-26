@@ -236,7 +236,7 @@ export const skills = [
       role: "IEEE VIIT Student Club",
       company: "VIIT College Club",
       date: "Oct 2022 - Oct 2023",
-      desc: " I have Designed the VIIT IEEE Site .",
+      desc: " I have Contributed in Desiging the VIIT IEEE Site .",
       skills: "Leadership,Problem Solving,Figma",
       doc: "https://www.linkedin.com/posts/shrinivas-kathare_appointment-letter-activity-7021526085272023040-IX2f?utm_source=share&utm_medium=member_desktop"
     }
@@ -248,7 +248,7 @@ export const skills = [
       school: "Vishwakarma Institute of Information Technology, Pune",
       grade: "9.03 CGPA",
       date: "Oct 2021 - Sep 2025",
-      desc: "I am currently pursuing a Bachelor's degree in IT. I am currently in 3rd year 7th semesters and have a CGPA of 9.03. ",
+      desc: "I am currently pursuing a Bachelor's degree in IT. I am currently in 4th year 7th semesters and have a CGPA of 9.03. ",
       degree: "B.Tech - Information Technology",
       doc: "",
     },
