@@ -1,0 +1,109 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px 60px 0px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  padding: 40px 0;
+  gap: 12px;
+}
+
+.title {
+  font-size: 42px;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 20px;
+  color: var(--color-text);
+}
+
+.desc {
+  font-size: 18px;
+  text-align: center;
+  max-width: 600px;
+  color: var(--color-text);
+}
+
+.timelineSection {
+  width: 100%;
+  max-width: 1000px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.toggleButtonContainer {
+  margin-bottom: 20px;
+}
+
+.toggleButton {
+  background-color: rgba(12, 12, 12, 0.6);
+  color: var(--color-text);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+.toggleButtonActive {
+  background-color: var(--color-primary);
+}
+
+.toggleButton:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 8px rgb(255, 255, 255);
+}
+
+.timelineContentStyled {
+  display: flex;
+  width: 100%;
+  max-width: 600px;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+.timelineContentStyledLeft {
+  justify-content: flex-start;
+  align-self: flex-start; /* Aligns content to the left */
+}
+
+.timelineContentStyledRight {
+  justify-content: flex-end;
+  align-self: flex-end; /* Aligns content to the right */
+}
+
+.timelineDot {
+  background-color: #f7f7f9;
+}
+
+.timelineConnector {
+  background-color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .title {
+    margin-top: 12px;
+    font-size: 32px;
+  }
+
+  .desc {
+    margin-top: 12px;
+    font-size: 16px;
+  }
+
+  .wrapper {
+    padding: 0;
+  }
+}

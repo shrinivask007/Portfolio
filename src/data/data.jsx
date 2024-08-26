@@ -209,4 +209,66 @@ export const skills = [
     },
     // Add more certifications if needed
   ];
+  export const experiences = [
+    {
+      id: 0,
+      imageSrc: 'assets/experience/coding.png',
+      role: "Backend Engineer Intern",
+      company: "Backend",
+      date: "June 2024 - July 2024",
+      desc: "Developed and worked on the API fetching of the Web application and manging Routes.",
+      skills: "NodeJs,ExpressJs,Mongodb,Postman",
+      doc: "https://drive.google.com/file/d/1a3trU1Q7yjwqiGSRxKGIUen3UJQihncK/view?usp=sharing",
+    },
+    {
+      id: 1,
+      imageSrc: 'assets/experience/codsoft.png',
+      role: "Web Development",
+      company: "Codsoft",
+      date: "July 2023 - August 2023",
+      desc: "Built an Employee management  web app.",
+      skills:"ReactJS,NodeJs,HTML,CSS,JavaScript,MongoDB",
+      doc: "https://drive.google.com/file/d/1a3trU1Q7yjwqiGSRxKGIUen3UJQihncK/view?usp=sharing"
+    },
+    {
+      id: 3,
+      imageSrc: 'assets/experience/ieee.jfif',
+      role: "IEEE VIIT Student Club",
+      company: "VIIT College Club",
+      date: "Oct 2022 - Oct 2023",
+      desc: " I have Designed the VIIT IEEE Site .",
+      skills: "Leadership,Problem Solving,Figma",
+      doc: "https://www.linkedin.com/posts/shrinivas-kathare_appointment-letter-activity-7021526085272023040-IX2f?utm_source=share&utm_medium=member_desktop"
+    }
+  ];
+  export const education = [
+    {
+      id: 0,
+      imageSrc: 'assets/experience/viit.png',
+      school: "Vishwakarma Institute of Information Technology, Pune",
+      grade: "9.03 CGPA",
+      date: "Oct 2021 - Sep 2025",
+      desc: "I am currently pursuing a Bachelor's degree in IT. I am currently in 3rd year 7th semesters and have a CGPA of 9.03. ",
+      degree: "B.Tech - Information Technology",
+      doc: "",
+    },
+    {
+      id: 1,
+      imageSrc: 'assets/experience/college.png',
+      school: "Narayana IIT-JEE Academy, Hyderabad",
+      grade: "97.2%",
+      date: "Apr 2019 - Apr 2025",
+      desc: "I completed my class 12 high school education and IIT-JEE Coaching , where I studied Science with Computer Science.",
+      degree: " Higher Secondary School",
+    },
+    {
+      id: 2,
+      imageSrc: 'assets/experience/school.png',
+      school: "Terna Public School, Dharashiv",
+      grade: "90.4%",
+      date: "Apr 2017 - Apr 2019",
+      desc: "I completed my class 10 education at Terna Public School, Dharashiv.",
+      degree: "CBSE/SSC",
+    },
+  ];
   
