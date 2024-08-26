@@ -218,7 +218,7 @@ export const skills = [
       date: "June 2024 - July 2024",
       desc: "Developed and worked on the API fetching of the Web application and manging Routes.",
       skills: "NodeJs,ExpressJs,Mongodb,Postman",
-      doc: "https://drive.google.com/file/d/1a3trU1Q7yjwqiGSRxKGIUen3UJQihncK/view?usp=sharing",
+      doc: "",
     },
     {
       id: 1,
