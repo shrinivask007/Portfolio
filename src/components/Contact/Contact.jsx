@@ -163,20 +163,20 @@ export const Contact = () => {
   // Submit handler for form submission
   const handleSubmit = (e) => {
     e.preventDefault();
-    const form = e.target;
-    const fromEmail = form.from_email.value;
-    const fromName = form.from_name.value;
-    const subject = form.subject.value;
-    const message = form.message.value;
+    // const form = e.target;
+    // const fromEmail = form.from_email.value;
+    // const fromName = form.from_name.value;
+    // const subject = form.subject.value;
+    // const message = form.message.value;
 
-    // Constructing the mailto link
-    const mailtoLink = `mailto:shrinivassk18@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${fromName}\nEmail: ${fromEmail}\n\nMessage:\n${message}`)}`;
+    // // Constructing the mailto link
+    // const mailtoLink = `mailto:shrinivassk18@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${fromName}\nEmail: ${fromEmail}\n\nMessage:\n${message}`)}`;
 
-    // Opening the mailto link
-    window.location.href = mailtoLink;
+    // // Opening the mailto link
+    // window.location.href = mailtoLink;
 
     // Show Snackbar message
-    setOpen(true);
+    // setOpen(true);
   };
 
   return (
@@ -190,7 +190,7 @@ export const Contact = () => {
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
-          <ContactButton type="submit" value="Send" />
+          <ContactButton onClick={() => window.location.href = "mailto:shrinivassk18@gmail.com"} type="button" value="Send" />
         </ContactForm>
         <Snackbar
           open={open}

@@ -257,8 +257,8 @@ export const skills = [
       img: 'assets/experience/college.png',
       school: "Narayana IIT-JEE Academy, Hyderabad",
       grade: "97.2%",
-      date: "Apr 2019 - Apr 2025",
-      desc: "I completed my class 12 high school education and IIT-JEE Coaching , where I studied Science with Computer Science.",
+      date: "Apr 2019 - Apr 2021",
+      desc: "I completed my class 12 high school education and IIT-JEE Coaching .",
       degree: " Higher Secondary School",
     },
     {
