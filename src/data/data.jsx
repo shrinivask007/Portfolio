@@ -212,7 +212,7 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
-      imageSrc: 'assets/experience/coding.png',
+      imageSrc: './assets/experience/coding.png',
       role: "Backend Engineer Intern",
       company: "Backend",
       date: "June 2024 - July 2024",
@@ -222,7 +222,7 @@ export const skills = [
     },
     {
       id: 1,
-      imageSrc: 'assets/experience/codsoft.png',
+      imageSrc: './assets/experience/codsoft.png',
       role: "Web Development",
       company: "Codsoft",
       date: "July 2023 - August 2023",
@@ -232,7 +232,7 @@ export const skills = [
     },
     {
       id: 3,
-      imageSrc: 'assets/experience/ieee.jfif',
+      imageSrc: './assets/experience/ieee.jfif',
       role: "IEEE VIIT Student Club",
       company: "VIIT College Club",
       date: "Oct 2022 - Oct 2023",
@@ -244,7 +244,7 @@ export const skills = [
   export const education = [
     {
       id: 0,
-      imageSrc: 'assets/experience/viit.png',
+      imageSrc: './assets/experience/viit.png',
       school: "Vishwakarma Institute of Information Technology, Pune",
       grade: "9.03 CGPA",
       date: "Oct 2021 - Sep 2025",
@@ -254,7 +254,7 @@ export const skills = [
     },
     {
       id: 1,
-      imageSrc: 'assets/experience/college.png',
+      img: './assets/experience/college.png',
       school: "Narayana IIT-JEE Academy, Hyderabad",
       grade: "97.2%",
       date: "Apr 2019 - Apr 2025",
@@ -263,7 +263,7 @@ export const skills = [
     },
     {
       id: 2,
-      imageSrc: 'assets/experience/school.png',
+      img: './assets/experience/school.png',
       school: "Terna Public School, Dharashiv",
       grade: "90.4%",
       date: "Apr 2017 - Apr 2019",
