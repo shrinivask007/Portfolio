@@ -10,6 +10,7 @@ export const Skills = () => {
     <div className={styles.container} id="skills">
       <div className={styles.wrapper}>
         <div className={styles.title}>{activeSection === 'skills' ? 'SKILLS' : 'CERTIFICATIONS'}</div>
+        <div className={styles.desc}>This are my Skills and Certifications </div>
         <div className={styles.toggleButtonContainer}>
           <button
             className={`${styles.toggleButton} ${activeSection === 'skills' ? styles.active : ''}`}

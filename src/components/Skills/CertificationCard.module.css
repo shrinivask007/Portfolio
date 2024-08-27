@@ -1,5 +1,4 @@
 /* CertificationCard.module.css */
-
 @import "../../vars.css";
 
 .container {
@@ -9,7 +8,7 @@
   width: 200px;
   flex-direction: column;
   border-radius: 16px;
-  background-color: rgba(12, 12, 12, 0.6);
+  background-color: rgba(12, 12, 12, 0.8);
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   padding: 18px 24px;
   
