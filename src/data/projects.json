@@ -36,6 +36,15 @@
       "source": "https://github.com/shrinivask007/Bulk_Email_Marketing"
   },
   {
+      "title": "Live Matches Chrome Extension",
+      "category": "web app",
+      "imageSrc": "projects/Livescore.png",
+      "description": "This extension fetches real-time cricket matches and its data",
+      "skills": ["HTML","CSS", "JavaScript","CricAPI"],
+      "demo": "https://github.com/shrinivask007/Live_Score_ChromeExtension",
+      "source": "https://github.com/shrinivask007/Live_Score_ChromeExtension"
+  },
+  {
       "title": "Whats-Chat",
       "category": "web app",
       "imageSrc": "projects/webchat.png",
