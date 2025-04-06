@@ -1,83 +1,107 @@
 [
   {
-      "title": "Job Junction",
-      "category": "web app",
-      "imageSrc": "projects/jobjunction.png",
-      "description": "The Job Portal application where users Grab & Grant jobs.",
-      "skills": ["ReactJs", "MaterialUI", "NodeJs", "ExpressJs", "MongoDB"],
-      "demo": "https://job-junction-shrinivas-kathare.vercel.app/",
-      "source": "https://github.com/shrinivask007/Job_finder"
+    "title": "Job Junction",
+    "category": "web app",
+    "imageSrc": "projects/jobjunction.png",
+    "description": "The Job Portal application where users Grab & Grant jobs.",
+    "skills": ["ReactJs", "MaterialUI", "NodeJs", "ExpressJs", "MongoDB"],
+    "demo": "https://job-junction-shrinivas-kathare.vercel.app/",
+    "source": "https://github.com/shrinivask007/Job_finder"
+  },
+  {
+    "title": "Real Estate App ",
+    "category": "android app",
+    "imageSrc": "projects/realestate.png",
+    "description": "A Real Estate Mobilt App built using Expo (React Native)",
+    "skills": ["React Native", "Expo", "Supabase", "MySQL"],
+    "demo": "https://github.com/shrinivask007/real-estate-app",
+    "source": "https://github.com/shrinivask007/real-estate-app"
+  },
+  {
+    "title": "AI Resume Screaning Syst.",
+    "category": "machine learning",
+    "imageSrc": "projects/resumescreaning.png",
+    "description": "AI resume scoring, categorization, job recommendations, and parsing information.",
+    "skills": ["Python", "Flask", "Numpy", "Pandas", "Scikit-learn"],
+    "demo": "https://github.com/shrinivask007/Ai-resume-screening",
+    "source": "https://github.com/shrinivask007/Ai-resume-screening"
   },
   {
     "title": "Blockchain E-Voting Syst.",
     "category": "web app",
     "imageSrc": "projects/blockchain.png",
     "description": "A Voting system implemented using Blockchain Technology.",
-    "skills": ["Solidity", "Web3js", "Ethereum", "Truffle", "Ganache & Metamask"],
+    "skills": [
+      "Solidity",
+      "Web3js",
+      "Ethereum",
+      "Truffle",
+      "Ganache & Metamask"
+    ],
     "demo": "https://github.com/shrinivask007/E-Voting_System_Blockchain",
     "source": "https://github.com/shrinivask007/E-Voting_System_Blockchain"
-},
-  {
-      "title": "End to End CI/CD Pipeline",
-      "category": "web app",
-      "imageSrc": "projects/cicdpipeline.png",
-      "description": "Developed a Real time End to End CI/CD Pipeline using DevOps Tools",
-      "skills": ["Jenkins", "SonarQube", "Docker", "Socket.io", "Aqua Trivy"],
-      "demo": "https://github.com/shrinivask007/location_tracking",
-      "source": "https://github.com/shrinivask007/location_tracking"
   },
   {
-      "title": "Bulk Email Marketing",
-      "category": "web app",
-      "imageSrc": "projects/Email_marketing.jpg",
-      "description": "Application is built on using AWS services",
-      "skills": ["S3 Bucket","Lambda", "AWS SES","AWS IAM", "AWS Event-Bridge"],
-      "demo": "https://github.com/shrinivask007/Bulk_Email_Marketing",
-      "source": "https://github.com/shrinivask007/Bulk_Email_Marketing"
+    "title": "End to End CI/CD Pipeline",
+    "category": "web app",
+    "imageSrc": "projects/cicdpipeline.png",
+    "description": "Developed a Real time End to End CI/CD Pipeline using DevOps Tools",
+    "skills": ["Jenkins", "SonarQube", "Docker", "Socket.io", "Aqua Trivy"],
+    "demo": "https://github.com/shrinivask007/location_tracking",
+    "source": "https://github.com/shrinivask007/location_tracking"
   },
   {
-      "title": "Live Matches Chrome Extension",
-      "category": "web app",
-      "imageSrc": "projects/Livescore.png",
-      "description": "This extension fetches real-time cricket matches and its data",
-      "skills": ["HTML","CSS", "JavaScript","CricAPI"],
-      "demo": "https://github.com/shrinivask007/Live_Score_ChromeExtension",
-      "source": "https://github.com/shrinivask007/Live_Score_ChromeExtension"
+    "title": "Bulk Email Marketing",
+    "category": "web app",
+    "imageSrc": "projects/Email_marketing.jpg",
+    "description": "Application is built on using AWS services",
+    "skills": ["S3 Bucket", "Lambda", "AWS SES", "AWS IAM", "AWS Event-Bridge"],
+    "demo": "https://github.com/shrinivask007/Bulk_Email_Marketing",
+    "source": "https://github.com/shrinivask007/Bulk_Email_Marketing"
   },
   {
-      "title": "Whats-Chat",
-      "category": "web app",
-      "imageSrc": "projects/webchat.png",
-      "description": "Real-time send and receive messages within the chat room.",
-      "skills": ["Ejs","CSS", "NodeJs", "ExpressJs", "Socket.io", "Docker"],
-      "demo": "https://github.com/shrinivask007/WhatsApp-Clone",
-      "source": "https://github.com/shrinivask007/WhatsApp-Clone"
+    "title": "Live Matches Chrome Extension",
+    "category": "web app",
+    "imageSrc": "projects/Livescore.png",
+    "description": "This extension fetches real-time cricket matches and its data",
+    "skills": ["HTML", "CSS", "JavaScript", "CricAPI"],
+    "demo": "https://github.com/shrinivask007/Live_Score_ChromeExtension",
+    "source": "https://github.com/shrinivask007/Live_Score_ChromeExtension"
   },
   {
-      "title": "URL Shortner",
-      "category": "web app",
-      "imageSrc": "projects/urlshortner.png",
-      "description": "It shorten the URL and redirect to the orignal URL.",
-      "skills": ["Ejs", "Bootstrap", "NodeJs", "ExpressJs", "MongoDB"],
-      "demo": "https://github.com/shrinivask007/URL_Shortner",
-      "source": "https://github.com/shrinivask007/URL_Shortner"
+    "title": "Whats-Chat",
+    "category": "web app",
+    "imageSrc": "projects/webchat.png",
+    "description": "Real-time send and receive messages within the chat room.",
+    "skills": ["Ejs", "CSS", "NodeJs", "ExpressJs", "Socket.io", "Docker"],
+    "demo": "https://github.com/shrinivask007/WhatsApp-Clone",
+    "source": "https://github.com/shrinivask007/WhatsApp-Clone"
   },
   {
-      "title": "Telegram Bot",
-      "category": "machine learning",
-      "imageSrc": "projects/telegrambot.png",
-      "description": "Telegram Bots is automated program that can interact with users and provide them with information and services.",
-      "skills": ["Telegraph", "NodeJs", "ExpressJs"],
-      "demo": "https://github.com/shrinivask007/telegram-bot",
-      "source": "https://github.com/shrinivask007/telegram-bot"
+    "title": "URL Shortner",
+    "category": "web app",
+    "imageSrc": "projects/urlshortner.png",
+    "description": "It shorten the URL and redirect to the orignal URL.",
+    "skills": ["Ejs", "Bootstrap", "NodeJs", "ExpressJs", "MongoDB"],
+    "demo": "https://github.com/shrinivask007/URL_Shortner",
+    "source": "https://github.com/shrinivask007/URL_Shortner"
   },
   {
-      "title": "University Managment System",
-      "category": "android app",
-      "imageSrc": "projects/ums.jpeg",
-      "description": "Complete University management system for students, faculty, and administrators.",
-      "skills": ["Java", "Swing", "MySQL"],
-      "demo": "https://github.com/shrinivask007/College-Management-System",
-      "source": "https://github.com/shrinivask007/College-Management-System"
+    "title": "Telegram Bot",
+    "category": "machine learning",
+    "imageSrc": "projects/telegrambot.png",
+    "description": "Telegram Bots is automated program that can interact with users and provide them with information and services.",
+    "skills": ["Telegraph", "NodeJs", "ExpressJs"],
+    "demo": "https://github.com/shrinivask007/telegram-bot",
+    "source": "https://github.com/shrinivask007/telegram-bot"
+  },
+  {
+    "title": "University Managment System",
+    "category": "android app",
+    "imageSrc": "projects/ums.jpeg",
+    "description": "Complete University management system for students, faculty, and administrators.",
+    "skills": ["Java", "Swing", "MySQL"],
+    "demo": "https://github.com/shrinivask007/College-Management-System",
+    "source": "https://github.com/shrinivask007/College-Management-System"
   }
 ]
